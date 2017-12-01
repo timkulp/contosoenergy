@@ -1,4 +1,4 @@
-/.vs
-/.vscode
-/obj
-/builds
+.vs/
+.vscode/
+obj
+builds
