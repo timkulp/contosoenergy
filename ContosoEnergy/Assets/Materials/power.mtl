@@ -1,0 +1,1813 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub 01_-_Default (10) to come 
+#
+newmtl Material__25
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__46
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd misc_0001.png
+#
+newmtl pcb_pinggir
+Ka  0.9 0.9 0.5
+Kd  0.9 0.9 0.5
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__47
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd misc_0001-up.png
+#
+newmtl xtreme_jpg
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 2005Z-IC.jpg
+#
+newmtl Material__30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd pcb_small.jpg
+#
+newmtl Material__31
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd power-x.jpg
+#
+newmtl Material__32
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__33
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__34
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub 01_-_Default done 
+#
+newmtl Material__48
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  13.2
+illum 2
+#
+# Multi/Sub Material__41 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.8
+illum 2
+map_Kd c-330-200_copy.jpg
+#
+newmtl 13_-_Default
+Ka  0.3 0.2 0.2
+Kd  0.3 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 done 
+#
+newmtl karet
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 03_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.4
+illum 2
+#
+# Multi/Sub Material__87 (2) to come 
+#
+newmtl volvo_metal
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  17.2
+illum 2
+map_Kd sdiode_copy.jpg
+map_Ks sdiode_copy.jpg
+#
+newmtl blakc
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+# Multi/Sub Material__87 done 
+#
+# Multi/Sub Material__88 (10) to come 
+#
+newmtl Material__36
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl volvo_metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl Material__38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd transistor_blak_copy.jpg
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__42
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__43
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__88 done 
+#
+# Multi/Sub volvo_metal (10) to come 
+#
+newmtl Material__36
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl volvo_metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl Material__38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd transistor_blak_copy.jpg
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__42
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__43
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub volvo_metal done 
+#
+newmtl Material__90
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+# Multi/Sub Material__10 (2) to come 
+#
+newmtl blakc
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.8
+illum 2
+#
+newmtl volvo_metal
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.3
+illum 2
+map_Kd -o 0.5 0.0 0.0 -s 3.0 1.0 1.0 c-mika-ac_copy.jpg
+map_Ks -o 0.5 0.0 0.0 -s 3.0 1.0 1.0 c-mika-ac_copy.jpg
+#
+# Multi/Sub Material__10 done 
+#
+newmtl Material__91
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Brushed.Blue-Silver
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor-big_copy.jpg
+#
+# Multi/Sub Material__21 (7) to come 
+#
+newmtl Material__11
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__12
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__13
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__14
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl volvo_metal
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  17.2
+illum 2
+map_Kd 9014_copy.jpg
+map_Ks 9014_copy.jpg
+#
+newmtl Material__16
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl blakc
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+# Multi/Sub Material__21 done 
+#
+newmtl Material__92
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Material__93
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd c-keramik_small-bg_copy.jpg
+#
+newmtl Material__94
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__95
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Anodized.Dark_Bronze
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor_1_copy.jpg
+#
+newmtl Metals.Ornamental_Metals.Stainless.Satin
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Copper
+Ka  0.8 0.5 0.5
+Kd  0.8 0.5 0.5
+Ks  0.4 0.3 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl gelas_nyux
+Ka  0.8 0.9 1.0
+Kd  0.8 0.9 1.0
+Ks  0.9 0.9 0.9
+d  0.2
+Ns  8.8
+illum 2
+#
+newmtl Material__96
+Ka  0.2 0.3 0.3
+Kd  0.2 0.3 0.3
+Ks  0.1 0.1 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl volvo_chrom
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  13.4
+illum 2
+#
+# Multi/Sub Material__33 (3) to come 
+#
+newmtl blakc
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Anodized.Dark_Bronze
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd trafo-label_copy.jpg
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Brushed.Blue-Silver
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd trafo_bg_copy.jpg
+#
+# Multi/Sub Material__33 done 
+#
+newmtl 09_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd REDRUST2.JPG
+#
+newmtl 04_-_Default
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.2
+illum 2
+#
+newmtl Material__97
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd REDRUST2.JPG
+#
+newmtl Material__98
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.2
+illum 2
+#
+# Multi/Sub Material__33 (3) to come 
+#
+newmtl blakc
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Anodized.Dark_Bronze
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd trafo-label-2_copy.jpg
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Brushed.Blue-Silver
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd trafo_bg_copy.jpg
+#
+# Multi/Sub Material__33 done 
+#
+newmtl Material__99
+Ka  0.2 0.3 0.3
+Kd  0.2 0.3 0.3
+Ks  0.1 0.1 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Material__100
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  13.4
+illum 2
+#
+newmtl 08_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_d 2005Z-IC.jpg
+#
+newmtl Material__101
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  13.2
+illum 2
+#
+newmtl Material__102
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.8
+illum 2
+map_Kd c-1000_18_copy.jpg
+#
+newmtl 13_-_Default
+Ka  0.3 0.2 0.2
+Kd  0.3 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 done 
+#
+newmtl Material__103
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Material__104
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor-small_copy.jpg
+#
+newmtl Material__105
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Material__106
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  17.2
+illum 2
+map_Kd sdiode_zener_copy.jpg
+#
+newmtl Metal_Dark_Gold
+Ka  0.0 0.0 0.0
+Kd  0.6 0.4 0.0
+Ks  0.6 0.3 0.0
+d  1.0
+Ns  2.4
+illum 2
+#
+newmtl Material__107
+Ka  0.4 0.8 1.0
+Kd  0.4 0.8 1.0
+Ks  0.9 0.9 0.9
+d  0.9
+Ns  8.8
+illum 2
+map_Kd sdiode_zener_copy.jpg
+#
+newmtl Material__108
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Material__109
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Material__110
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+# Multi/Sub Material__111 (2) to come 
+#
+newmtl volvo_metal
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  17.2
+illum 2
+map_Kd sdiode_copy.jpg
+map_Ks sdiode_copy.jpg
+#
+newmtl blakc
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.6
+illum 2
+#
+# Multi/Sub Material__111 done 
+#
+newmtl Material__112
+Ka  0.7 0.3 0.1
+Kd  0.7 0.3 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  4.2
+illum 2
+#
+newmtl 14_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.3
+illum 2
+#
+newmtl 13_-_Default
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd -s 0.0 2.7 1.0 kumparan_warna.jpg
+bump -s 0.0 2.7 1.0 kumparan_warna.jpg
+#
+newmtl Metal_RustRed
+Ka  0.3 0.1 0.0
+Kd  0.3 0.1 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.8
+illum 2
+map_Kd REDRUST2.JPG
+map_Ks REDRUST2.JPG
+bump REDRUST2.JPG
+#
+newmtl Material__113
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  13.2
+illum 2
+#
+newmtl Material__114
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.8
+illum 2
+map_Kd c-1-50_copy.jpg
+#
+newmtl 13_-_Default
+Ka  0.3 0.2 0.2
+Kd  0.3 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 done 
+#
+# Multi/Sub 02_-_Default (10) to come 
+#
+newmtl Material__116
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__117
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.9
+illum 2
+#
+newmtl Material__118
+Ka  0.8 0.4 0.1
+Kd  0.8 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.8
+illum 2
+#
+newmtl aku-metalic
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl aku-discs
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  14.2
+illum 2
+#
+newmtl Material__121
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__122
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__123
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__124
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__125
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub 02_-_Default done 
+#
+newmtl Material__126
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.9
+illum 2
+#
+newmtl Material__127
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd c-mika-ac-biru-bg_copy.jpg
+#
+# Multi/Sub Material__35 (7) to come 
+#
+newmtl Material__25
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 01_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd -s 3.0 1.0 1.0 c-besar_copy.jpg
+#
+newmtl Material__27
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__28
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__29
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd c-besar_bg_copy.jpg
+#
+# Multi/Sub Material__35 done 
+#
+newmtl Material__129
+Ka  0.7 0.3 0.1
+Kd  0.7 0.3 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  4.2
+illum 2
+#
+newmtl Material__128
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.0
+illum 2
+map_Kd -s 0.0 4.6 1.0 kumparan_warna.jpg
+bump -s 0.0 4.6 1.0 kumparan_warna.jpg
+#
+# Multi/Sub Material__130 (2) to come 
+#
+newmtl blakc
+Ka  0.1 0.5 0.2
+Kd  0.1 0.5 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.8
+illum 2
+#
+newmtl volvo_metal
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.3
+illum 2
+map_Kd -o 0.5 0.0 0.0 -s 3.0 1.0 1.0 c-mika-dc-ijo_copy.jpg
+map_Ks -o 0.5 0.0 0.0 -s 3.0 1.0 1.0 c-mika-ac_copy.jpg
+#
+# Multi/Sub Material__130 done 
+#
+newmtl Material__134
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  12.3
+illum 2
+#
+# Multi/Sub Material__135 (10) to come 
+#
+newmtl Material__116
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__117
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.9
+illum 2
+#
+newmtl Material__118
+Ka  0.8 0.4 0.1
+Kd  0.8 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.8
+illum 2
+#
+newmtl aku-metalic
+Ka  0.0 0.0 0.0
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl aku-discs
+Ka  0.0 0.0 0.0
+Kd  0.9 0.9 0.9
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  14.2
+illum 2
+#
+newmtl plastik
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.6
+illum 2
+#
+newmtl Material__122
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__123
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__124
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__125
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__135 done 
+#
+# Multi/Sub Material__136 (10) to come 
+#
+newmtl Material__25
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__136
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  14.9
+illum 2
+#
+newmtl Material__137
+Ka  0.9 0.7 0.2
+Kd  0.9 0.7 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.8
+illum 2
+#
+newmtl Material__47
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd misc_0001-ups1.png
+#
+newmtl Material__29
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__31
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__32
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__33
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__34
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__136 done 
+#
+newmtl Metal_Chrome
+Ka  0.0 0.0 0.0
+Kd  0.4 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.0
+illum 2
+#
+newmtl Thermal_&_Moisture.Shingles.Asphalt_Roofing
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl plastik_hitam
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.2
+illum 2
+#
+newmtl Metal_ChromeFast
+Ka  0.0 0.0 0.0
+Kd  0.8 0.6 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.0
+illum 2
+#
+newmtl kampret
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.2
+illum 2
+#
+newmtl Material__138
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  13.2
+illum 2
+#
+newmtl karet
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.8
+illum 2
+map_Kd c-2200-16_copy.jpg
+#
+newmtl 13_-_Default
+Ka  0.3 0.2 0.2
+Kd  0.3 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 done 
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Anodized.Dark_Bronze
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor_1_copy.jpg
+#
+newmtl 03_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Brushed.Blue-Silver
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor-small_copy.jpg
+#
+# Multi/Sub volvo_metal (10) to come 
+#
+newmtl Material__36
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl volvo_metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl Material__38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 7812_copy.jpg
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__42
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__43
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub volvo_metal done 
+#
+newmtl Material__139
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  12.3
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  4.4
+illum 2
+#
+newmtl 04_-_Defaultxx
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.7
+illum 2
+#
+# Multi/Sub kabel_mereka (10) to come 
+#
+newmtl blaxx
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl redhat
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl kuning
+Ka  0.9 0.9 0.4
+Kd  0.9 0.9 0.4
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl orenye
+Ka  0.9 0.7 0.2
+Kd  0.9 0.7 0.2
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl putih
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl abuabu
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl ungu
+Ka  0.5 0.0 0.6
+Kd  0.5 0.0 0.6
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl ijo
+Ka  0.3 0.6 0.0
+Kd  0.3 0.6 0.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl biru
+Ka  0.2 0.0 0.7
+Kd  0.2 0.0 0.7
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl ground
+Ka  0.6 0.7 0.7
+Kd  0.6 0.7 0.7
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.6
+illum 2
+#
+# Multi/Sub kabel_mereka done 
+#
+newmtl 09_-_Defaultxx
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd -s 2.5 2.6 1.0 big_cable.jpg
+#
+# Multi/Sub Material__141 (10) to come 
+#
+newmtl Material__25
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__136
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  14.9
+illum 2
+#
+newmtl Material__137
+Ka  0.9 0.7 0.2
+Kd  0.9 0.7 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.8
+illum 2
+#
+newmtl Material__47
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd misc_0001-ups1.png
+#
+newmtl Material__29
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__31
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__32
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__33
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__34
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__141 done 
+#
+newmtl 23_-_Default
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.8
+illum 2
+#
+newmtl 22_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  3.5
+illum 2
+#
+newmtl Material__118
+Ka  0.8 0.4 0.1
+Kd  0.8 0.4 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  8.8
+illum 2
+#
+newmtl plastik_hitam
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.2
+illum 2
+#
+newmtl Metal_ChromeFast
+Ka  0.0 0.0 0.0
+Kd  0.8 0.6 0.4
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.0
+illum 2
+#
+newmtl kampret
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.2
+illum 2
+#
+newmtl Material__138
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  13.2
+illum 2
+#
+newmtl karet
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 (2) to come 
+#
+newmtl 07_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  15.8
+illum 2
+map_Kd c-2200-16_copy.jpg
+#
+newmtl 13_-_Default
+Ka  0.3 0.2 0.2
+Kd  0.3 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__41 done 
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Anodized.Dark_Bronze
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor_1_copy.jpg
+#
+newmtl 03_-_Default
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  16.6
+illum 2
+#
+newmtl Metals.Ornamental_Metals.Aluminum.Brushed.Blue-Silver
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd resistor-small_copy.jpg
+#
+# Multi/Sub volvo_metal (10) to come 
+#
+newmtl Material__36
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl volvo_metal
+Ka  0.0 0.0 0.0
+Kd  0.6 0.6 0.6
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  9.9
+illum 2
+#
+newmtl Material__38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 7812_copy.jpg
+#
+newmtl Material__39
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__42
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__43
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub volvo_metal done 
+#
+# EOF

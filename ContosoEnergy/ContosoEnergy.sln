@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoEnergy", "ContosoEnergy.csproj", "{EC48C495-F4BE-4518-AF91-4324D2256216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoEnergy.Editor", "ContosoEnergy.Editor.csproj", "{AA380A2F-2389-D87F-3596-04BBFF9D4DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC48C495-F4BE-4518-AF91-4324D2256216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC48C495-F4BE-4518-AF91-4324D2256216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC48C495-F4BE-4518-AF91-4324D2256216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC48C495-F4BE-4518-AF91-4324D2256216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA380A2F-2389-D87F-3596-04BBFF9D4DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA380A2F-2389-D87F-3596-04BBFF9D4DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA380A2F-2389-D87F-3596-04BBFF9D4DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA380A2F-2389-D87F-3596-04BBFF9D4DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EC48C495-F4BE-4518-AF91-4324D2256216}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TextToSpeechManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/KeywordRecognizer.cs" Line="51" Column="36" />
+      <File FileName="Assets/Scripts/QuestionManager.cs" Line="161" Column="13" />
+      <File FileName="Assets/Scripts/QandAManager.cs" Line="29" Column="2" />
+      <File FileName="Assets/Scripts/TextToSpeechManager.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContosoEnergy PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
